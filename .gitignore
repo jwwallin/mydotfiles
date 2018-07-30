@@ -1,3 +1,9 @@
 .cfg
 .weechat/logs
 .weechat/weechat.log
+.viminfo
+.bash_history
+.sudo_as_admin_successful
+.cloud-locale-test.skip
+*id_rsa*
+known_hosts
