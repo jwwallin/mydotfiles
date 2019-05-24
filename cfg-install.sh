@@ -23,5 +23,5 @@ cd $HOME/.vim/bundle
 git clone git://github.com/altercation/vim-colors-solarized.git
 
 # Set the newly downloaded bash_profile as the source
-source $HOME/bash_profile
+source $HOME/.bash_profile
 
