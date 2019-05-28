@@ -7,3 +7,7 @@
 .cloud-locale-test.skip
 *id_rsa*
 known_hosts
+.bash_local
+*authorized_keys*
+.config-backup
+
