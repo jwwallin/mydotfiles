@@ -1,6 +1,6 @@
 
 # Install the dotfiles
-git clone --bare  git@github.com:jwwallin/mydotfiles.git $HOME/.cfg
+git clone --bare  https://github.com/jwwallin/mydotfiles.git $HOME/.cfg
 function config {
    /usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME $@
 }
