@@ -2,4 +2,6 @@
 	editor = vim
 [user]
 	name = Jussi Wallin
-	email = jussi.w.wallin@gmail.com
+	email = jussi@beanbakers.fi
+[alias]
+	amend = commit --amend
